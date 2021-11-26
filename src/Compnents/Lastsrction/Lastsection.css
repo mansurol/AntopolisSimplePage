@@ -1,0 +1,14 @@
+.lastBgcolor{
+    background-color: #061425;
+}
+.lastsectionstyle{
+   text-align: center; 
+}
+.borderTop{
+    border-top: 1px solid gray;
+}
+.AllP p{
+text-align: center;
+color: white;
+padding-top: 10px;
+}

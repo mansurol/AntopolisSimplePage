@@ -1,0 +1,38 @@
+.contentSizing{
+width: 486px;
+height: 138px;
+left: 0px;
+top: 41px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: bold;
+font-size: 40px;
+line-height: 46px;
+
+color: #FFFFFF;
+letter-spacing: -0.02em;
+
+
+}
+.bg{
+    background-image: url('../Img/Rectangle\ 2.png');
+    width: 1400px;
+    height: 620px;
+}
+.contentSizing2{
+    margin-top: 135px;
+}
+.contentSizing3 p{
+    width: 267px;
+    height: 32px;
+    color: #FFFFFF;
+}
+.DateColor{
+   font-size: 13px;
+}
+.LearnColor{
+    width: 101px;
+height: 21px;
+color: #FFFFFF;
+}

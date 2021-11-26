@@ -1,25 +1,22 @@
-import logo from './logo.svg';
-import './App.css';
-
+import React from 'react';
+ import Header from './Compnents/Header/Header'
+import SectionTwo from './Compnents/SectionTwo/SectionTwo'
+import SectionThree from './Compnents/SectionThree/SectionThree'
+import SectionFourDataPass from './Compnents/SectionFour/SectionFourDataPass'
+import Footer from './Compnents/Footer/Footer'
+import LastSection from './Compnents/Lastsrction/LastSection'
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div> 
+        <Header/>  
+        <SectionTwo/>  
+        <SectionThree/>  
+        <SectionFourDataPass/>  
+        <Footer/>
+        <LastSection/>
     </div>
   );
 }
 
 export default App;
+

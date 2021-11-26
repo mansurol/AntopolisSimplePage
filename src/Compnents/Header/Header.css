@@ -1,0 +1,31 @@
+.catagory{
+    margin: auto;
+}
+.colorA a{
+    color:#1C1C1C;
+    ;
+}
+
+
+.ButtonRight{
+    float: right;
+}
+
+.LogInButton{
+    font-family: IBM Plex Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 17px;
+   
+    
+    text-align: center;
+    text-transform: uppercase;
+    color:#224497
+}
+.ButtonRight:hover{
+color:#224497
+}
+.LogInButton:hover{
+    color:white
+}

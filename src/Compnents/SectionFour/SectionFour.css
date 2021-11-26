@@ -1,0 +1,21 @@
+.box{
+height: 473px;
+width: 351px;
+border: 1px solid gray;
+border-radius: 10px;
+
+}
+.BoxImg img{
+    width: 351px; 
+}
+.boxTitle{
+font-size: 21px;
+color: #151515;
+}
+.boxCourse{
+font-size: 19px;
+font-weight: bold;
+}
+.EnrollButton {
+    margin-left: 120px;
+}

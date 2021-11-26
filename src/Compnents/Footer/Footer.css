@@ -1,0 +1,25 @@
+.backgroundColorFooter{
+    background-color: #061425;
+
+}
+.Allcontent p {
+    color:#BBC9ED;
+    font-size: 14px;
+
+}
+.Allcontent h2 {
+    color: #CED8F2;
+
+}
+.stylecontentTwo{
+    margin-left: 140px;
+}
+
+.Allcontent img{
+    padding: 5px;
+    height: 25px;
+}
+.SendButton{
+    float: right;
+    padding-right:7px;
+}

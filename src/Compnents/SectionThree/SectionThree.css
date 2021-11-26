@@ -1,0 +1,18 @@
+.sectionThreeOne{
+width: 583px;
+height: 180px;
+font-style: normal;
+font-weight: bold;
+font-size: 56px;
+color: #151515;
+}
+.sectionThreeTwo{
+    width: 624px;
+    height: 128px;
+    font-size: 18px;
+    color: #000000;
+}
+.ButtonRightTwo {
+margin-top: 260px;
+float:right
+}
